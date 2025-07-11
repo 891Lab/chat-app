@@ -1,0 +1,19 @@
+current directory: /home/hakui/projects/chat-app/vendor/bundle/ruby/3.2.0/gems/debug-1.11.0/ext/debug
+/home/hakui/.rbenv/versions/3.2.0/bin/ruby -I /home/hakui/.rbenv/versions/3.2.0/lib/ruby/3.2.0 extconf.rb
+creating Makefile
+
+current directory: /home/hakui/projects/chat-app/vendor/bundle/ruby/3.2.0/gems/debug-1.11.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250711-8350-4l4cs0 sitelibdir\=./.gem.20250711-8350-4l4cs0 clean
+
+current directory: /home/hakui/projects/chat-app/vendor/bundle/ruby/3.2.0/gems/debug-1.11.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250711-8350-4l4cs0 sitelibdir\=./.gem.20250711-8350-4l4cs0
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/hakui/projects/chat-app/vendor/bundle/ruby/3.2.0/gems/debug-1.11.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250711-8350-4l4cs0 sitelibdir\=./.gem.20250711-8350-4l4cs0 install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20250711-8350-4l4cs0/debug
+
+current directory: /home/hakui/projects/chat-app/vendor/bundle/ruby/3.2.0/gems/debug-1.11.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20250711-8350-4l4cs0 sitelibdir\=./.gem.20250711-8350-4l4cs0 clean
